@@ -4,3 +4,9 @@
 [submodule "project-D/piot-java-components"]
 	path = project-D/piot-java-components
 	url = https://github.com/mondalso/piot-java-components.git
+[submodule "CDA/piot-python-components"]
+	path = CDA/piot-python-components
+	url = https://github.com/mondalso/piot-python-components.git
+[submodule "GDA/piot-java-components"]
+	path = GDA/piot-java-components
+	url = https://github.com/mondalso/piot-java-components.git
