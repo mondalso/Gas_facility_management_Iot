@@ -1,0 +1,6 @@
+[submodule "project-C/piot-python-components"]
+	path = project-C/piot-python-components
+	url = https://github.com/mondalso/piot-python-components.git
+[submodule "project-D/piot-java-components"]
+	path = project-D/piot-java-components
+	url = https://github.com/mondalso/piot-java-components.git
